@@ -24,6 +24,8 @@
     color: #393939;
     left: 59px;
     top: 15px;
+    width: 270px;
+    outline: none;
 }
 
 #searchbarurl::placeholder {
@@ -40,4 +42,11 @@
     position: absolute;
     left: 363px;
     top: 17px;
+    background-image: url("chrome://userchrome/content/pages/applauncher/images/hamburger.png");
+    width: 13px;
+    height: 13px;
+}
+
+#hamburgermenu:hover {
+    background-image: url("chrome://userchrome/content/pages/applauncher/images/hamburgerhover.png");
 }

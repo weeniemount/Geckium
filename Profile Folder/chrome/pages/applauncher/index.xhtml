@@ -7,11 +7,13 @@
         <link rel="stylesheet" href="chrome://userchrome/content/pages/applauncher/style.scss" />
     </head>
     <body id="applauncherbody">
+        <script src="chrome://userchrome/content/pages/applauncher/script.js"></script>
+
         <div id="searchbar">
             <img id="searchicon" src="chrome://userchrome/content/pages/applauncher/images/search.png" alt="Search" />
             <input id="searchbarurl" type="text" placeholder="Search or type URL" />
-            <img id="hamburgermenu" src="chrome://userchrome/content/pages/applauncher/images/hamburger.png" alt="Options" />
+            <div id="hamburgermenu"></div>
         </div>
-        apps go here
+        <div id="apps-content"></div>
     </body>
 </html> 

@@ -18,5 +18,20 @@
 }
 
 #searchbarurl {
+    position: absolute;
     background: none;
+    border: none;
+    color: #393939;
+    left: 59px;
+    top: 19px;
+}
+
+#searchbarurl::placeholder {
+    color: #b6b6b6;
+}
+
+#searchicon {
+    position: absolute;
+    left: 19px;
+    top: 17px;
 }

@@ -15,6 +15,7 @@ const customAboutPages = {
 	"apps": 			"chrome://pages/content/apps/index.xhtml",
 	"flags": 			"chrome://pages/content/flags/index.xhtml",
 	"dino": 			"chrome://pages/content/dino/index.xhtml",
+	"applauncher": 			"chrome://pages/content/applauncher/index.xhtml",
 	// "neterror":		"chrome://pages/content/netError/index.xhtml",
 	"aboutdialog":		"chrome://windows/content/about/index.xhtml",
 

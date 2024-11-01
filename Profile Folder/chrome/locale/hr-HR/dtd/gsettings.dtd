@@ -1,197 +1,197 @@
-<!ENTITY gsettings.disabledWizardNotice "Neke su opcije bile onemogućene zbog pokretanja iz postavljanja.">
+<!ENTITY gsettings.disabledWizardNotice "Some options were disabled due to being launched from wizard.">
 
-<!ENTITY gsettings.welcome          "Dobrodošli">
+<!ENTITY gsettings.welcome          "Welcome">
 
-<!ENTITY gsettings.design	        "Dizajn">
-<!ENTITY gsettings.behaviour		"Ponašanje">
-<!ENTITY gsettings.pages			"Stranice">
-<!ENTITY gsettings.theme		    "Tema">
-<!ENTITY gsettings.people			"Ljudi">
+<!ENTITY gsettings.design	        "Design">
+<!ENTITY gsettings.behaviour		"Behavior">
+<!ENTITY gsettings.pages			"Pages">
+<!ENTITY gsettings.theme		    "Theme">
+<!ENTITY gsettings.people			"People">
 
-<!ENTITY gsettings.chromiumExperiments 	"Chromium Experimenti">
-<!ENTITY gsettings.developerOptions		"Opcije za razvojne programere">
+<!ENTITY gsettings.chromiumExperiments 	"Chromium Experiments">
+<!ENTITY gsettings.developerOptions		"Developer Options">
 
-<!ENTITY gsettings.help					"Pomoć">
-<!ENTITY gsettings.about				"O Geckiumu">
+<!ENTITY gsettings.help					"Help">
+<!ENTITY gsettings.about				"About">
 
-<!ENTITY gsettings.welcomeTo            "Dobrodošli u">
+<!ENTITY gsettings.welcomeTo            "Welcome to">
 
-<!ENTITY gsettings.supportTheProject				"Podržite projekt">
-<!ENTITY gsettings.openInTabNext					"Sljedeći put ovo otvorite u novoj kartici">
+<!ENTITY gsettings.supportTheProject				"Support the project">
+<!ENTITY gsettings.openInTabNext					"Open this in a new tab next time">
 
-<!ENTITY gsettings.designDescription                "Odaberite željeni dizajn ili promijenite način na koji naslovna traka izgleda i ponaša se.">
-<!ENTITY gsettings.behaviourDescription             "Upravljajte robnom markom Geckiuma, kako teme funkcioniraju i prilagodite druga ponašanja u Geckiumu.">
-<!ENTITY gsettings.pagesDescription                 "Prilagodite različite stranice u Geckiumu, uključujući novu karticu i stranice aplikacija.">
-<!ENTITY gsettings.themeDescription                 "Odaberite temu sustava, Firefox temu ili Chromium temu za korištenje u Geckiumu.">
-<!ENTITY gsettings.peopleDescription				"Odaberite kako želite da gumb ljudi izgleda.">
-<!ENTITY gsettings.chromiumExperimentsDescription   "Omogućite ili onemogućite eksperimentalne opcije iz povijesti Chromiuma.">
+<!ENTITY gsettings.designDescription                "Choose your preferred design, or change the way the titlebar looks and behaves.">
+<!ENTITY gsettings.behaviourDescription             "Manage Geckium's branding, how themes function, and adjust other behavior in Geckium.">
+<!ENTITY gsettings.pagesDescription                 "Customise various pages in Geckium, including the new tab and apps pages.">
+<!ENTITY gsettings.themeDescription                 "Select a System Theme, Firefox Theme, or Chromium Theme to use in Geckium.">
+<!ENTITY gsettings.peopleDescription				"Choose how you want the people button to look.">
+<!ENTITY gsettings.chromiumExperimentsDescription   "Enable or disable scrapped options from throughout Chromium's history.">
 
-<!ENTITY gsettings.automatic					"Automatski">
+<!ENTITY gsettings.automatic					"Automatic">
 
-<!ENTITY gsettings.titlebar                         "Naslovna traka">
-<!ENTITY gsettings.titlebarStyle                    "Stil naslovne trake i sučelja">
-<!ENTITY gsettings.titlebarStyleWinNoGaps           "Windows (bez razmaka)">
-<!ENTITY gsettings.titlebarStyleLinuxAlpha          "Linux (Alfa)">
-<!ENTITY gsettings.titlebarMode                     "Način rada naslovne trake">
-<!ENTITY gsettings.titlebarModeDisclaimer           "Neki stilovi naslovne trake zanemarit će ovu postavku">
-<!ENTITY gsettings.titlebarModeSystem               "Sistemske granice">
-<!ENTITY gsettings.titlebarModeCompact              "Kompaktne granice">
-<!ENTITY gsettings.titlebarInThemesIsSys            "Koristite sistemske granice u kompatibilnim Chromium temama">
-<!ENTITY gsettings.titlebarInThemesIsSysDisclaimer  "Zahtijeva omogućene sistemske granice ili korištenje odabranog stila naslovne trake">
+<!ENTITY gsettings.titlebar                         "Titlebar">
+<!ENTITY gsettings.titlebarStyle                    "Titlebar and Interface Style">
+<!ENTITY gsettings.titlebarStyleWinNoGaps           "Windows (gapless)">
+<!ENTITY gsettings.titlebarStyleLinuxAlpha          "Linux (Alpha)">
+<!ENTITY gsettings.titlebarMode                     "Titlebar Mode">
+<!ENTITY gsettings.titlebarModeDisclaimer           "Some titlebar styles will ignore this setting">
+<!ENTITY gsettings.titlebarModeSystem               "System Borders">
+<!ENTITY gsettings.titlebarModeCompact              "Compact Borders">
+<!ENTITY gsettings.titlebarInThemesIsSys            "Use system borders in compatible Chromium Themes">
+<!ENTITY gsettings.titlebarInThemesIsSysDisclaimer  "Requires system borders to be enabled or used by your titlebar style">
 
-<!ENTITY gsettings.availablePresets			"Dostupni predlošci">
-<!ENTITY gsettings.resetOverrides			"Poništi prilagodbe">
+<!ENTITY gsettings.availablePresets			"Available presets">
+<!ENTITY gsettings.resetOverrides			"Reset overrides">
 
-<!ENTITY gsettings.mainInterface                        "Glavno sučelje">
-<!ENTITY gsettings.overrideVisualStylePreset			"Nadjačaj postavke vizualnog stila">
+<!ENTITY gsettings.mainInterface                        "Main Interface">
+<!ENTITY gsettings.overrideVisualStylePreset			"Override visual style preset">
 
-<!ENTITY gsettings.newTab	"Nova kartica">
+<!ENTITY gsettings.newTab	"New Tab">
 
-<!ENTITY gsettings.quickAccess				"Brzi pristup">
-<!ENTITY gsettings.designToBehaviour    	"Upravljajte brendom, stavkama alatne trake i ponašanjem tema...">
-<!ENTITY gsettings.designToPages			"Upravljajte sadržajem nove kartice...">
-<!ENTITY gsettings.designToThemes       	"Promijenite ili upravljajte temama...">
-<!ENTITY gsettings.designToExperiments      "Istražite odbačene opcije dizajna u Chromiumu...">
+<!ENTITY gsettings.quickAccess				"Quick access">
+<!ENTITY gsettings.designToBehaviour    	"Manage branding, toolbar items and theme behavior...">
+<!ENTITY gsettings.designToPages			"Manage new tab page contents...">
+<!ENTITY gsettings.designToThemes       	"Change or manage themes...">
+<!ENTITY gsettings.designToExperiments      "Explore scrapped Chromium design options...">
 
-<!ENTITY gsettings.browser                              "Preglednik">
-<!ENTITY gsettings.branding								"Brendiranje">
-<!ENTITY gsettings.saveDiscardedCRX						"Spremite odbačene CRX datoteke za preuzimanje">
-<!ENTITY gsettings.saveDiscardedCRXDescription			"Omogućuje vam preuzimanje Chromium tema bez instalacije pritiskom na Discard">
-<!ENTITY gsettings.toolbar                              "Alatna traka">
-<!ENTITY gsettings.needsRestart	   						"Potrebno ponovno pokretanje">
-<!ENTITY gsettings.enableTabManager						"Omogući upravitelj kartica">
-<!ENTITY gsettings.hideExtensionsMenuButton				"Sakrij gumb izbornika proširenja">
+<!ENTITY gsettings.browser                              "Browser">
+<!ENTITY gsettings.branding								"Branding">
+<!ENTITY gsettings.saveDiscardedCRX						"Save discarded CRX file downloads">
+<!ENTITY gsettings.saveDiscardedCRXDescription			"Allows you to download Chromium Themes without installing them by pressing Discard">
+<!ENTITY gsettings.toolbar                              "Toolbar">
+<!ENTITY gsettings.needsRestart	   						"Needs restart">
+<!ENTITY gsettings.enableTabManager						"Enable tab manager">
+<!ENTITY gsettings.hideExtensionsMenuButton				"Hide extensions menu button">
 
-<!ENTITY gsettings.macIsGraphite				        "Koristite grafitne gumbe na naslovnoj traci">
-<!ENTITY gsettings.macOSZoomIsFullscreen				"Zamijenite funkciju Zoom za cijeli ekran u stilu naslovne trake za macOS">
-<!ENTITY gsettings.macOSZoomIsFullscreenDisclaimer		"Ova opcija radi samo na Windows i Linux sustavima">
+<!ENTITY gsettings.macIsGraphite				        "Use Graphite titlebar buttons">
+<!ENTITY gsettings.macOSZoomIsFullscreen				"Replace Zoom with Full screen in macOS Titlebar Style">
+<!ENTITY gsettings.macOSZoomIsFullscreenDisclaimer		"This option only works on Windows and Linux">
 
-<!ENTITY gsettings.themes                               "Teme">
-<!ENTITY gsettings.accommodateChrThemes                 "Prilagodite Chromium teme dizajnu za koji nisu napravljene">
-<!ENTITY gsettings.accommodateChrThemesDisclaimer       "Omogućava kompatibilnost modernih tema s starijim dizajnima i obrnuto">
-<!ENTITY gsettings.chrThemeFallbacks                    "Rezervne boje naslovne trake i alatne trake u Chromium temama">
-<!ENTITY gsettings.chrThemeFallbacksDisclaimer          "Teme s teksturama slika će ignorirati ovu postavku">
-<!ENTITY gsettings.enabled					            "Omogućeno">
-<!ENTITY gsettings.disabled					            "Onemogućeno">
-<!ENTITY gsettings.chrThemesMustAero                    "Prisilite sve Chromium teme da koriste sistemske granice">
-<!ENTITY gsettings.chrThemesMustAeroDisclaimer          "Zahtijeva omogućene sistemske granice u kompatibilnim Chromium temama">
-<!ENTITY gsettings.firefoxThemeOnTitlebuttons           "Primijenite pozadinu alatne trake na gumbe naslovne trake">
-<!ENTITY gsettings.firefoxThemeOnTitlebuttonsDisclaimer "Neki stilovi naslovne trake će ignorirati ovu postavku">
-<!ENTITY gsettings.colorizeTabGlareEffect 				"Obojite efekt odsjaja kartice prema prilagođenoj temi">
-<!ENTITY gsettings.colorizeTabGlareEffectDescription    "Oboji efekt lebdenja kartice">
-<!ENTITY gsettings.themeNewTabFooter                    "Tematizirajte podnožje nove kartice prema primijenjenoj prilagođenoj temi">
+<!ENTITY gsettings.themes                               "Themes">
+<!ENTITY gsettings.accommodateChrThemes                 "Accommodate Chromium Themes to designs they were not made for">
+<!ENTITY gsettings.accommodateChrThemesDisclaimer       "This allows modern themes to be compatible with old designs, and vice-versa">
+<!ENTITY gsettings.chrThemeFallbacks                    "Fallback titlebar and toolbar colors in Chromium Themes">
+<!ENTITY gsettings.chrThemeFallbacksDisclaimer          "Themes with image textures will ignore this setting">
+<!ENTITY gsettings.enabled					            "Enabled">
+<!ENTITY gsettings.disabled					            "Disabled">
+<!ENTITY gsettings.chrThemesMustAero                    "Force all Chromium Themes to use System Borders">
+<!ENTITY gsettings.chrThemesMustAeroDisclaimer          "Requires system borders in compatible Chromium Themes to be enabled">
+<!ENTITY gsettings.firefoxThemeOnTitlebuttons           "Apply toolbar background to titlebar buttons">
+<!ENTITY gsettings.firefoxThemeOnTitlebuttonsDisclaimer "Some titlebar styles will ignore this setting">
+<!ENTITY gsettings.colorizeTabGlareEffect 				"Colorize tab glare effect according to custom theme">
+<!ENTITY gsettings.colorizeTabGlareEffectDescription    "Colorizes the tab hover effect">
+<!ENTITY gsettings.themeNewTabFooter                    "Theme new tab footer according to applied custom theme">
 
-<!ENTITY gsettings.gtkIconsInToolbarItems		        "Sistemske stavke u stvakama alatne trake">
-<!ENTITY gsettings.gtkIconsInToolbarItemsDisclaimer	    "Zahtijeva Linux s omogućenim GTK+ temama">
-<!ENTITY gsettings.official                             "Ovlašteno">
-<!ENTITY gsettings.allToolbarItems                      "Sve stavke alatne trake">
-<!ENTITY gsettings.none                                 "Ništa">
+<!ENTITY gsettings.gtkIconsInToolbarItems		        "System icons in toolbar items">
+<!ENTITY gsettings.gtkIconsInToolbarItemsDisclaimer	    "Requires Linux with GTK+ theme enabled">
+<!ENTITY gsettings.official                             "Official">
+<!ENTITY gsettings.allToolbarItems                      "All toolbar items">
+<!ENTITY gsettings.none                                 "None">
 
-<!ENTITY gsettings.enableWebsitePinningInEveryEra				"Omogućite pričvršćivanje web stranica u svakoj eri">
-<!ENTITY gsettings.enableWebsitePinningInEveryEraDescription	"Prikazuje gumb za pričvršćivanje u svakom dizajnu">
+<!ENTITY gsettings.enableWebsitePinningInEveryEra				"Enable website pinning in every era">
+<!ENTITY gsettings.enableWebsitePinningInEveryEraDescription	"Displays the pin button in every design">
 
 <!ENTITY gsettings.about        "About">
 <!ENTITY gsettings.chooseAbout  "Choose About">
 <!ENTITY gsettings.browser      "Browser">
 <!ENTITY gsettings.ask          "Ask">
 
-<!ENTITY gsettings.behaviourToDesign        "Promijenite dizajn ili upravljajte prilagodbama...">
-<!ENTITY gsettings.behaviourToTheme         "Primijenite temu za promjenu ponašanja...">
-<!ENTITY gsettings.behaviourToExperiments   "Istražite odbačene opcije ponašanja u Chromiumu...">
+<!ENTITY gsettings.behaviourToDesign        "Switch design or manage overrides...">
+<!ENTITY gsettings.behaviourToTheme         "Apply a theme to observe behavior changes...">
+<!ENTITY gsettings.behaviourToExperiments   "Explore scrapped Chromium behavior options...">
 
-<!ENTITY gsettings.appsList					"Popis aplikacija">
+<!ENTITY gsettings.appsList					"Apps List">
 
-<!ENTITY gsettings.pagesToDesign            "Promijenite dizajn nove kartice...">
-<!ENTITY gsettings.pagesToBehaviour         "Upravljajte ponašanjem tema novoj kartici...">
-<!ENTITY gsettings.pagesToTheme             "Prilagodite novu karticu temama...">
+<!ENTITY gsettings.pagesToDesign            "Change the new tab page design...">
+<!ENTITY gsettings.pagesToBehaviour         "Manage behavior of themes in the new tab page...">
+<!ENTITY gsettings.pagesToTheme             "Personalize the new tab page with themes...">
 
-<!ENTITY gsettings.appearance                           "Izgled">
-<!ENTITY gsettings.openChrThemesFolder				    "Otvori mapu Chromium tema">
-<!ENTITY gsettings.refreshList					        "Osvježi popis">
-<!ENTITY gsettings.filename								"Ime datoteke:">
-<!ENTITY gsettings.viewStorePage						"Posjeti u trgovini">
-<!ENTITY gsettings.search								"Traži">
+<!ENTITY gsettings.appearance                           "Appearance">
+<!ENTITY gsettings.openChrThemesFolder				    "Open Chromium themes folder">
+<!ENTITY gsettings.refreshList					        "Refresh list">
+<!ENTITY gsettings.filename								"Filename:">
+<!ENTITY gsettings.viewStorePage						"View Store page">
+<!ENTITY gsettings.search								"Search">
 
-<!ENTITY gsettings.customFirefoxThemeMode				"Način prilagođene Firefox teme">
-<!ENTITY gsettings.toolbarStyleFXChrome                 "Stil nalik FXChrome">
-<!ENTITY gsettings.doNotThemeToolbars					"Ne tematiziraj alatne trake">
+<!ENTITY gsettings.customFirefoxThemeMode				"Custom Firefox Theme mode">
+<!ENTITY gsettings.toolbarStyleFXChrome                 "FXChrome-like">
+<!ENTITY gsettings.doNotThemeToolbars					"Don't theme toolbars">
 
-<!ENTITY gsettings.geckiumYouSource                     "Izvor boje za Geckium You">
-<!ENTITY gsettings.geckiumYouDisclaimer                 "Chrome 58 nije podržan od strane Geckium You">
-<!ENTITY gsettings.grey                                 "Siva">
-<!ENTITY gsettings.w3cAccentColor                       "Boja naglaska">
-<!ENTITY gsettings.custom                               "Prilagođeno">
-<!ENTITY gsettings.wincolor                             "Boja prozora">
+<!ENTITY gsettings.geckiumYouSource                     "Geckium You color source">
+<!ENTITY gsettings.geckiumYouDisclaimer                 "Chrome 58 is not supported by Geckium You">
+<!ENTITY gsettings.grey                                 "Grey">
+<!ENTITY gsettings.w3cAccentColor                       "Accent Color">
+<!ENTITY gsettings.custom                               "Custom">
+<!ENTITY gsettings.wincolor                             "Window Color">
 
-<!ENTITY gsettings.filterThemesBy                       "Filtriraj teme prema...">
-<!ENTITY gsettings.allThemes                            "Sve teme">
-<!ENTITY gsettings.sysThemes                            "System teme">
-<!ENTITY gsettings.chrThemes                            "Chromium teme">
-<!ENTITY gsettings.lwThemes                             "Firefox teme">
+<!ENTITY gsettings.filterThemesBy                       "Filter themes by...">
+<!ENTITY gsettings.allThemes                            "All Themes">
+<!ENTITY gsettings.sysThemes                            "System Themes">
+<!ENTITY gsettings.chrThemes                            "Chromium Themes">
+<!ENTITY gsettings.lwThemes                             "Firefox Themes">
 
-<!ENTITY gsettings.sysThemeIsFallback                   "Zadani">
-<!ENTITY gsettings.sysThemeWindows                      "Zadano (Windows)">
-<!ENTITY gsettings.sysThemeClassic                      "Klasično">
-<!ENTITY gsettings.sysThemeYou                          "Geckium Ti">
-<!ENTITY gsettings.sysThemeNative                       "Izvorno">
-<!ENTITY gsettings.sysThemeMacOSX                       "Zadano (Mac OS X)">
-<!ENTITY gsettings.sysThemeMacOS                        "Zadano (macOS)">
-<!ENTITY gsettings.sysThemeChrOS                        "Zadano (OS)">
-<!ENTITY gsettings.getMoreMozillaFirefoxThemes          "Nabavite više Mozilla Firefox tema">
-<!ENTITY gsettings.getMoreGoogleChromeThemes            "Nabavite više Google Chrome tema">
-<!ENTITY gsettings.getMoreMicrosoftEdgeThemes           "Nabavite više Microsoft Edge tema">
+<!ENTITY gsettings.sysThemeIsFallback                   "Fallback">
+<!ENTITY gsettings.sysThemeWindows                      "Default (Windows)">
+<!ENTITY gsettings.sysThemeClassic                      "Classic">
+<!ENTITY gsettings.sysThemeYou                          "Geckium You">
+<!ENTITY gsettings.sysThemeNative                       "Native">
+<!ENTITY gsettings.sysThemeMacOSX                       "Default (Mac OS X)">
+<!ENTITY gsettings.sysThemeMacOS                        "Default (macOS)">
+<!ENTITY gsettings.sysThemeChrOS                        "Default (OS)">
+<!ENTITY gsettings.getMoreMozillaFirefoxThemes          "Get more Mozilla Firefox themes">
+<!ENTITY gsettings.getMoreGoogleChromeThemes            "Get more Google Chrome themes">
+<!ENTITY gsettings.getMoreMicrosoftEdgeThemes           "Get more Microsoft Edge themes">
 
-<!ENTITY gsettings.themeToDesign                "Isprobajte svoje teme na različitim dizajnima...">
-<!ENTITY gsettings.themeToBehaviour             "Prilagodite koliko interfejs teme utječe...">
-<!ENTITY gsettings.themeToExperiments           "Dalje personalizirajte s odbačenim Chromium opcijama...">
+<!ENTITY gsettings.themeToDesign                "Try your themes on different designs...">
+<!ENTITY gsettings.themeToBehaviour             "Adjust how much of the interface themes affect...">
+<!ENTITY gsettings.themeToExperiments           "Personalize further with scrapped Chromium options...">
 
-<!ENTITY gsettings.peoplePositionTitle			"Pozicija">
-<!ENTITY gsettings.peoplePositionDescription	"Gumb za ljude imao je različite pozicije tijekom godina.">
+<!ENTITY gsettings.peoplePositionTitle			"Position">
+<!ENTITY gsettings.peoplePositionDescription	"The people button has had different positions throughout the years.">
 
-<!ENTITY gsettings.pickAnAvatar		"Odaberite avatar">
-<!ENTITY gsettings.avatarMode		"Način avatara">
-<!ENTITY gsettings.chooseAPicture	"Odaberite sliku">
-<!ENTITY gsettings.imagePath		"Put datoteke">
+<!ENTITY gsettings.pickAnAvatar		"Pick an avatar">
+<!ENTITY gsettings.avatarMode		"Avatar Mode">
+<!ENTITY gsettings.chooseAPicture	"Choose a picture">
+<!ENTITY gsettings.imagePath		"Image Path">
 
-<!ENTITY gsettings.flags 'Zastave - također dostupne putem "about:flags"'>
+<!ENTITY gsettings.flags 'Flags - also available via "about:flags"'>
 
-<!ENTITY gsettings.createYourGecko	"Stvorite svoj vlastiti gecko Dekor!">
-<!ENTITY gsettings.export	"Izvoz">
+<!ENTITY gsettings.createYourGecko	"Create your own gecko Decor!">
+<!ENTITY gsettings.export	"Export">
 
-<!ENTITY gsettings.clearStartupCacheAndRestartWithWizard	"Obrišite predmemoriju pri pokretanju i ponovo pokrenite s čarobnjakom">
-<!ENTITY gsettings.restartBrowser							"Ponovno pokrenite preglednik">
-<!ENTITY gsettings.clearStartupCacheAndRestartBrowser		"Obrišite predmemoriju pri pokretanju i ponovo pokrenite preglednik">
+<!ENTITY gsettings.clearStartupCacheAndRestartWithWizard	"Clear startup cache and restart with Wizard">
+<!ENTITY gsettings.restartBrowser							"Restart browser">
+<!ENTITY gsettings.clearStartupCacheAndRestartBrowser		"Clear startup cache and restart browser">
 
-<!ENTITY gsettings.usefulLinks 				"Korisni linkovi">
-<!ENTITY gsettings.faq						"Često postavljana pitanja">
+<!ENTITY gsettings.usefulLinks 				"Useful links">
+<!ENTITY gsettings.faq						"Frequently Asked Questions">
 <!ENTITY gsettings.faqWindowBlindsQuestion 	"Q: WindowBli-">
-<!ENTITY gsettings.faqWindowBlindsAnswer	"A: NE.">
-<!ENTITY gsettings.aboutFlagsQuestion		"Q: Zašto about:flags prikazuje samo neke ili nijedne zastave?">
-<!ENTITY gsettings.aboutFlagsAnswer			"A: Trenutno samo neki od vizualnih stilova imaju dostupne zastave.">
+<!ENTITY gsettings.faqWindowBlindsAnswer	"A: NO.">
+<!ENTITY gsettings.aboutFlagsQuestion		"Q: Why is about:flags showing only some or no flags?">
+<!ENTITY gsettings.aboutFlagsAnswer			"A: Currently, only some of the visual styles have flags available.">
 
-<!ENTITY gsettings.checkForUpdates			"Provjerite ažuriranja">
-<!ENTITY gsettings.automaticUpdateChecker	"Automatski provjera ažuriranja">
-<!ENTITY gsettings.branch					"Grana">
-<!ENTITY gsettings.creditsTitle				"Zahvale">
-<!ENTITY gsettings.creditsDescription		"Popis programera, suradnika i testera.">
-<!ENTITY gsettings.version					"Verzija">
-<!ENTITY gsettings.updateChannel			"Kanala ažuriranja">
-<!ENTITY gsettings.basedOnVersion			"Temeljeno na verziji">
-<!ENTITY gsettings.architecture				"Arhitektura">
-<!ENTITY gsettings.profileName				"Ime profila">
+<!ENTITY gsettings.checkForUpdates			"Check for Updates">
+<!ENTITY gsettings.automaticUpdateChecker	"Automatic Update Checker">
+<!ENTITY gsettings.branch					"Branch">
+<!ENTITY gsettings.creditsTitle				"Credits">
+<!ENTITY gsettings.creditsDescription		"List of developers, contributors and testers.">
+<!ENTITY gsettings.version					"Version">
+<!ENTITY gsettings.updateChannel			"Update Channel">
+<!ENTITY gsettings.basedOnVersion			"Based on version">
+<!ENTITY gsettings.architecture				"Architecture">
+<!ENTITY gsettings.profileName				"Profile Name">
 
-<!ENTITY gsettings.modalChromiumVisualStylePresetsTitle			"O Chromium vizualnim stilskim predlošcima">
-<!ENTITY gsettings.modalChromiumVisualStylePresetsDescription	"Odaberite iz izbora različitih vizualnih stilova koje je Chromium imao tijekom godina, od Chrome 1 do 58.">
-<!ENTITY gsettings.modalDesignOverridden                        "Predlošci dizajna trenutno se nadjačavaju. Želite li resetirati nadjačavanja?">
-<!ENTITY gsettings.modalEditAppTitle							"Uredi">
-<!ENTITY gsettings.modalEditAppOldFavicon						"Stari favicon">
-<!ENTITY gsettings.modalEditAppOldIcon							"Stara ikona">
-<!ENTITY gsettings.modalEditAppNewIcon							"Nova ikona">
-<!ENTITY gsettings.modalEditAppOldName							"Staro ime">
-<!ENTITY gsettings.modalEditAppNewName							"Novo ime">
-<!ENTITY gsettings.modalGkBranchesTitle							"Geckium grane">
-<!ENTITY gsettings.modalGkBranchesDescription					"Različite Geckium grane su za različite forke Firefoxa, neki previše mijenjaju UI što znači da moramo raditi neke stvari drugačije.">
-<!ENTITY gsettings.modalGkBranchesCurrent						"Trenutna grana:">
+<!ENTITY gsettings.modalChromiumVisualStylePresetsTitle			"About Chromium Visual Style Presets">
+<!ENTITY gsettings.modalChromiumVisualStylePresetsDescription	"Choose from a selection of different visual styles that Chromium has had throughout the years, from Chrome 1 all the way to 58.">
+<!ENTITY gsettings.modalDesignOverridden                        "Design presets are currently being overridden. Would you like to reset overrides?">
+<!ENTITY gsettings.modalEditAppTitle							"Edit">
+<!ENTITY gsettings.modalEditAppOldFavicon						"Old favicon">
+<!ENTITY gsettings.modalEditAppOldIcon							"Old icon">
+<!ENTITY gsettings.modalEditAppNewIcon							"New icon">
+<!ENTITY gsettings.modalEditAppOldName							"Old name">
+<!ENTITY gsettings.modalEditAppNewName							"New name">
+<!ENTITY gsettings.modalGkBranchesTitle							"Geckium Branches">
+<!ENTITY gsettings.modalGkBranchesDescription					"The different Geckium branches are for different forks of Firefox, some change the UI too heavily meaning that we have to do some things differently.">
+<!ENTITY gsettings.modalGkBranchesCurrent						"Current Branch:">
 
-<!ENTITY gsettings.delete "Obriši">
-<!ENTITY gsettings.create "Stvori">
+<!ENTITY gsettings.delete "Delete">
+<!ENTITY gsettings.create "Create">

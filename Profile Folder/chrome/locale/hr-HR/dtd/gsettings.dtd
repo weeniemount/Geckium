@@ -81,11 +81,11 @@
 <!ENTITY gsettings.colorizeTabGlareEffectDescription    "Oboji efekt lebdenja kartice">
 <!ENTITY gsettings.themeNewTabFooter                    "Tematizirajte podnožje nove kartice prema primijenjenoj prilagođenoj temi">
 
-<!ENTITY gsettings.gtkIconsInToolbarItems		        "[!!! §¥ƨƭè₥ ïçôñƨ ïñ ƭôôℓβář ïƭè₥ƨ !!!]">
+<!ENTITY gsettings.gtkIconsInToolbarItems		        "Sistemske stavke u stvakama alatne trake">
 <!ENTITY gsettings.gtkIconsInToolbarItemsDisclaimer	    "Zahtijeva Linux s omogućenim GTK+ temama">
-<!ENTITY gsettings.official                             "[!!! Óƒƒïçïáℓ !!!]">
-<!ENTITY gsettings.allToolbarItems                      "[!!! Âℓℓ ƭôôℓβář ïƭè₥ƨ !!!]">
-<!ENTITY gsettings.none                                 "[!!! Nôñè !!!]">
+<!ENTITY gsettings.official                             "Ovlašteno">
+<!ENTITY gsettings.allToolbarItems                      "Sve stavke alatne trake">
+<!ENTITY gsettings.none                                 "Ništa">
 
 <!ENTITY gsettings.enableWebsitePinningInEveryEra				"Omogućite pričvršćivanje web stranica u svakoj eri">
 <!ENTITY gsettings.enableWebsitePinningInEveryEraDescription	"Prikazuje gumb za pričvršćivanje u svakom dizajnu">
@@ -108,9 +108,9 @@
 <!ENTITY gsettings.appearance                           "Izgled">
 <!ENTITY gsettings.openChrThemesFolder				    "Otvori mapu Chromium tema">
 <!ENTITY gsettings.refreshList					        "Osvježi popis">
-<!ENTITY gsettings.filename								"[!!! Fïℓèñá₥è: !!!]">
-<!ENTITY gsettings.viewStorePage						"[!!! Vïèω §ƭôřè ƥáϱè !!!]">
-<!ENTITY gsettings.search								"[!!! §èářçλ !!!]">
+<!ENTITY gsettings.filename								"Ime datoteke:">
+<!ENTITY gsettings.viewStorePage						"Posjeti u trgovini">
+<!ENTITY gsettings.search								"Traži">
 
 <!ENTITY gsettings.customFirefoxThemeMode				"Način prilagođene Firefox teme">
 <!ENTITY gsettings.toolbarStyleFXChrome                 "Stil nalik FXChrome">

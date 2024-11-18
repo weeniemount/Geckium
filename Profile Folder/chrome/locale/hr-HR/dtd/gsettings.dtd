@@ -53,9 +53,9 @@
 <!ENTITY gsettings.designToThemes		"Promijenite ili upravljajte temama...">
 <!ENTITY gsettings.designToExperiments	"Istražite odbačene opcije dizajna u Chromiumu...">
 
-<!ENTITY gsettings.privacy			"[!!! ÞřïƲáç¥ !!!]">
-<!ENTITY gsettings.hideAccountInfo	"[!!! Hïδè áççôúñƭ ïñƒôř₥áƭïôñ !!!]">
-<!ENTITY gsettings.willHideInfoFrom	"[!!! Tλïƨ ƨèƭƭïñϱ ωïℓℓ λïδè ¥ôúř ñá₥è áñδ è-₥áïℓ ƒřô₥ ƥℓáçèƨ ƨúçλ áƨ Þèôƥℓè βúƭƭôñ áñδ Nèω Táβ ƥáϱè !!!]">
+<!ENTITY gsettings.privacy			"Privatnost">
+<!ENTITY gsettings.hideAccountInfo	"Sakrij informacije računa">
+<!ENTITY gsettings.willHideInfoFrom	"Ova postavka će sakriti tvoje ime i e-mail od mjesta kao gumb Ljudi i stranica Nove Kartice">
 
 <!ENTITY gsettings.browser						"Preglednik">
 <!ENTITY gsettings.branding						"Brendiranje">
